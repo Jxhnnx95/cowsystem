@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jbarr\\OneDrive\\Escritorio\\Proyectos\\CowSystem 2.0\\cowsystem\\cowsystem.csproj": {}
+    "C:\\Users\\jbarr\\OneDrive\\Escritorio\\Proyectos\\CowSystem2.0\\cowsystem\\cowsystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jbarr\\OneDrive\\Escritorio\\Proyectos\\CowSystem 2.0\\cowsystem\\cowsystem.csproj": {
+    "C:\\Users\\jbarr\\OneDrive\\Escritorio\\Proyectos\\CowSystem2.0\\cowsystem\\cowsystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jbarr\\OneDrive\\Escritorio\\Proyectos\\CowSystem 2.0\\cowsystem\\cowsystem.csproj",
+        "projectUniqueName": "C:\\Users\\jbarr\\OneDrive\\Escritorio\\Proyectos\\CowSystem2.0\\cowsystem\\cowsystem.csproj",
         "projectName": "cowsystem",
-        "projectPath": "C:\\Users\\jbarr\\OneDrive\\Escritorio\\Proyectos\\CowSystem 2.0\\cowsystem\\cowsystem.csproj",
+        "projectPath": "C:\\Users\\jbarr\\OneDrive\\Escritorio\\Proyectos\\CowSystem2.0\\cowsystem\\cowsystem.csproj",
         "packagesPath": "C:\\Users\\jbarr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jbarr\\OneDrive\\Escritorio\\Proyectos\\CowSystem 2.0\\cowsystem\\obj\\",
+        "outputPath": "C:\\Users\\jbarr\\OneDrive\\Escritorio\\Proyectos\\CowSystem2.0\\cowsystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
